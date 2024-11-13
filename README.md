@@ -1,3 +1,3 @@
 # Python code interpreter
 
- A Python code interpreter using PythonREPL agent.
+ A Langchain Agent that interprets Python code (using PythonREPL) as well as Pandas CSV: Python Agent Executor + CSV Agent Executor.
