@@ -16,6 +16,7 @@ langchain-ollama = "*"
 pillow = "*"
 pyqrcode = "*"
 pandas = "*"
+langchain-anthropic = "*"
 
 [dev-packages]
 
